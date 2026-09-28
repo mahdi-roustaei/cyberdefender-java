@@ -2,7 +2,7 @@
 
 A 2D arcade survival game built with Java and Swing, combining real-time combat with cybersecurity quizzes.
 
-Dodge enemies, collect power-ups, and answer security questions to increase your score. Developed as a university group project, CyberDefender brings together desktop UI development, game state management, collision detection, audio, and local persistence.
+Dodge enemies, collect power-ups, and answer security questions to increase your score. Developed as an individual university programming project, CyberDefender brings together desktop UI development, game state management, collision detection, audio, and local persistence.
 
 ## Features
 
@@ -80,7 +80,7 @@ The game stores player-entered names and scores in `highscores.txt` in the worki
 
 ## Project context
 
-CyberDefender was developed collaboratively as a university group project and is shared with permission. This portfolio repository presents the team's project.
+CyberDefender was developed by Mahdi Roustaei as an individual project for the university course **Programmierprojekt** and is shared with permission.
 
 ## Current limitations and next steps
 
