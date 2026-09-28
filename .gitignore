@@ -1,0 +1,26 @@
+# Generated Java output
+/build/
+/out/
+/target/
+/bin/
+*.class
+*.jar
+
+# Local player data
+highscores.txt
+
+# IDE and machine-specific settings
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files and local credentials
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.log
