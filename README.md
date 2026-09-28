@@ -2,7 +2,7 @@
 
 A 2D arcade survival game built with Java and Swing, combining real-time combat with cybersecurity quizzes.
 
-Dodge enemies, collect power-ups, and answer security questions to increase your score. Developed as a university project, CyberDefender brings together desktop UI development, game state management, collision detection, audio, and local persistence.
+Dodge enemies, collect power-ups, and answer security questions to increase your score. Developed as a university group project, CyberDefender brings together desktop UI development, game state management, collision detection, audio, and local persistence.
 
 ## Features
 
@@ -78,11 +78,9 @@ During a quiz, the game pauses. A correct answer awards points; an incorrect ans
 
 The game stores player-entered names and scores in `highscores.txt` in the working directory. This file is excluded from version control. Difficulty settings apply to the current application session.
 
-## Project context and contributions
+## Project context
 
-This repository presents a university project. Individual responsibilities and any collaboration credits still need to be confirmed before publication.
-
-<!-- Before publishing, replace the paragraph above with an accurate account of your own work. Do not claim sole authorship unless confirmed. Add collaborators and starter-code attribution where applicable. -->
+CyberDefender was developed collaboratively as a university group project and is shared with permission. This portfolio repository presents the team's project.
 
 ## Current limitations and next steps
 
@@ -94,4 +92,4 @@ This repository presents a university project. Individual responsibilities and a
 
 ## Assets and licensing
 
-The supplied project did not include a license or asset attribution file. Image, sound, and font origins must be confirmed before public release. No open-source license is assigned by this draft.
+The project uses third-party images, audio, and a font reported by the project contributor as open source. Source links, creator credits, and specific license details are being documented. No repository-wide open-source license has been assigned in this draft.
